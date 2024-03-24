@@ -1,0 +1,60 @@
+body {
+    background-color: #11114b;
+    text-align: center;
+
+
+}
+
+h1 {
+    color: aqua;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+.tests {
+    text-align: left;
+
+}
+
+.test {
+    margin: 2rem;
+}
+
+p {
+    text-align: left;
+    color: azure;
+}
+
+label {
+    color: aliceblue;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    padding: 5px 15px;
+    background-color: blueviolet;
+    border: transparent;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+button:hover,
+button:focus {
+    color: #11114b;
+    background-color: aliceblue;
+}
+.grades{
+    color: aliceblue;
+    margin: 2rem;
+    font-size: 2rem;
+    text-align: center;
+}
